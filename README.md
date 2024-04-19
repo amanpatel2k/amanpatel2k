@@ -1,4 +1,4 @@
-## Hello everyone! My name is Justin Bui (He/Him) 👋
+## Hello everyone! My name is Aman Patel 👋
 
 # 💫 About Me:
 - B.S. Computer Science @ California State University, Fullerton (Graduated 2023) <br>
