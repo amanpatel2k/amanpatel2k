@@ -1,6 +1,7 @@
 ## Hello everyone! My name is Aman Patel 👋
 
 # 💫 About Me:
+- M.S. Cybersecurity @ New York University, New York (Expected 2026) <br>
 - B.S. Computer Science @ California State University, Fullerton (Graduated 2023) <br>
 - Actively seeking full time positions related to cybersecurity and software engineering<br>
 - 2024 Goals: Continue applying for jobs, solve more Leetcode problems, and keep on learning! <br>
